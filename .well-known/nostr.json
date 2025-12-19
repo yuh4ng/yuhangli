@@ -1,0 +1,17 @@
+{
+  "names": {
+    "_": "npub1lj688jsqtswy22dkvgf45zjwmetd6xk2udvz4g6js9aprzsgc8nq2pqlfs"
+  },
+  "relays": {
+    "npub1lj688jsqtswy22dkvgf45zjwmetd6xk2udvz4g6js9aprzsgc8nq2pqlfs": [
+      "wss://relay.damus.io",
+      "wss://nos.lol",
+      "wss://relay.snort.social",
+      "wss://relay.primal.net",
+      "wss://eden.nostr.land",
+      "wss://nostr.lorentz.is",
+      "wss://relay.mostr.pub",
+      "wss://nostr.fort-btc.club"
+    ]
+  }
+}
